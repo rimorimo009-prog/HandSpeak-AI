@@ -6,7 +6,7 @@ numpy>=1.24
 opencv-python-headless>=4.10
 
 tensorflow==2.15.0
-keras==2.15.0s
+keras==2.15.0
 
 cvzone>=1.6.1
 mediapipe>=0.10.14
